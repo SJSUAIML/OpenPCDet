@@ -8,9 +8,6 @@ venv/
 *.so
 *.yaml
 *.sh
-*.pth
-*.pkl
 *.zip
-*.bin
 output
 version.py
